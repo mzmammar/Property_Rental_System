@@ -3,12 +3,14 @@
 This project is a comprehensive property rental system developed using the MERN stack, with a primary focus on front-end development. It allows users to rent properties and list their own properties for rent. The front-end is built using React.js to create dynamic and responsive user interfaces, ensuring a seamless user experience. For layout creation and styling, HTML and CSS were employed, adhering to best practices in web design.
 
 # Features
-Dynamic and responsive user interfaces built with React.js
-Scalable web application using the MERN stack (MongoDB, Express.js, React.js, Node.js)
-Front-end development focused on enhancing user experience
-Integration of MongoDB for database management
-Comprehensive layout creation and styling using HTML and CSS
-Adherence to best practices in web design and development
+1. *Easy Booking*: Book houses, apartments, villas, or any kind of properties for rent.
+2. *Search Destinations*: Search properties using the name of the city or state where they are located.
+3. *Filter Options*: Filter properties based on price range, property type, room type, and amenities.
+4. *Secure Payments*: Easy and secure payment integration using Stripe.
+5. *Manage Bookings*: Users can manage their bookings conveniently.
+6. *Property Listings*: Users can list their own properties for rent.
+7. *User Profile Editing*: Users can edit their profile information, including changing passwords, usernames, and phone numbers.
+8. *Forgot Password*: Users can reset their password, with the process tested using Mailtrap.
 
 # Technologies Used
 React.js: For building the front-end user interface
