@@ -51,13 +51,14 @@ MONGO_URI=your_mongodb_connection_string
 6. Run the application
 Open your code editor (e.g., Visual Studio Code) and navigate to the project folder. Run the following commands to start both the backend and frontend servers:
 
-# In one terminal, start the backend server
+*In one terminal, start the backend server*
 cd backend
 npm start
 
-# In another terminal, start the frontend server
+*In another terminal, start the frontend server*
 cd frontend
 npm start
+
 6. View the application in the browser
 Open your web browser and navigate to http://localhost:3000 to view the Property Rental System.
 
